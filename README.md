@@ -4,15 +4,6 @@ This is the first file in this repo.
 
 
 
-## Ipsum Below
+## Website Contents
 
-ksadölfkj sadsadf öalsdfjsadf sadfölkj dflöj f
-sadf sadf
-sadf
-sadf
-
-sadf
-asdf
-sa
-sa
-dfsa
+1. index.html
